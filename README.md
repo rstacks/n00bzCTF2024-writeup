@@ -67,3 +67,5 @@ Click [here](https://github.com/rstacks/ctf-writeups) to check out my writeups f
 I was the sole member of team Boy Wonder. I scored **2622** points in total and finished **311th out of 967** teams (that solved at least one challenge).
 
 ![Results and solves image](results.png)
+
+*Writeup for the "Sanity Check" challenge not included.
