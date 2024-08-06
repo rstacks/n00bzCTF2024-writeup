@@ -20,7 +20,7 @@ input the number of questions we wish to solve.
 - After solving all of the addition problems, the flag is read by the program. However, only the first
 <code>n</code> characters of the flag are revealed, where <code>n</code> is the number of questions
 we chose to answer. Obviously, if we want to see the whole flag, we would need to answer a large
-number of questions. However, after solving each problem, the script is instructed to wait 2^i
+number of questions. However, after solving each problem, the script is instructed to wait 2<sup>i</sup>
 seconds before proceeding to the next problem, where <code>i</code> is the number of questions
 answered so far. The wait time quickly becomes ridiculous as it literally exponentially increases.
 
